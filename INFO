@@ -1,0 +1,10 @@
+{
+"name": "_fastshare.cz_free",
+"hostprefix": "fastshare.cz",
+"displayname": "Fastshare.cz - Free",
+"version": "1.0",
+"authentication": "no",
+"module": "host.php",
+"class": "SynologyFastshareFree",
+"description": "Fastshare - Free"
+}
